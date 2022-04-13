@@ -1,0 +1,11 @@
+.dstatusDone {
+	color: #4feb34;
+}
+
+.dstatusRunning {
+	color: #ebe134;
+}
+
+.dstatusError {
+	color: #eb3434;
+}
